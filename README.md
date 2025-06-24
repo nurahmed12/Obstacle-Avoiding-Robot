@@ -23,7 +23,7 @@ The **Arduino Obstacle-Avoiding Robot** drives forward until it senses an object
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/nurahmed12/obstacle-avoiding-robot.git
+   git clone https://github.com/nurahmed12/Obstacle-Avoiding-Robot.git
 2. **Open the sketch**
 In Arduino IDE: File → Open → obstacle_avoiding_robot.ino
 
